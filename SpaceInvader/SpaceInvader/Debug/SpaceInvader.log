@@ -1,10 +1,8 @@
-﻿  main.cpp
+﻿  Object_Player.cpp
+d:\학교 기초프로젝트\1차 프로젝트 깃\spaceinvader\spaceinvader\object_player.cpp(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+  main.cpp
   Console.cpp
   코드를 생성하고 있습니다...
-  컴파일하고 있습니다...
-  Object_Player.cpp
-c:\users\lg\documents\visual studio 2015\projects\spaceinvader\spaceinvader\object_player.cpp(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
-  코드를 생성하고 있습니다...
-  SpaceInvader.vcxproj -> C:\Users\LG\documents\visual studio 2015\Projects\SpaceInvader\Debug\SpaceInvader.exe
-  SpaceInvader.vcxproj -> C:\Users\LG\documents\visual studio 2015\Projects\SpaceInvader\Debug\SpaceInvader.pdb (Full PDB)
+  SpaceInvader.vcxproj -> D:\학교 기초프로젝트\1차 프로젝트 깃\SpaceInvader\Debug\SpaceInvader.exe
+  SpaceInvader.vcxproj -> D:\학교 기초프로젝트\1차 프로젝트 깃\SpaceInvader\Debug\SpaceInvader.pdb (Full PDB)

@@ -8,7 +8,7 @@ PlayerInfo* InitPlayer(PlayerInfo* player, char* shape)
 	strcpy(player->UnitShape, shape);
 	player->x = 40;
 	player->y = 20;
-	player->liveFlag = true;
+	player->liveFlag = false;
 
 	return player;
 }
