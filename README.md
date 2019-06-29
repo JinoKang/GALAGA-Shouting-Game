@@ -6,5 +6,4 @@
 - 사용자가 보이는 화면을 2차원 배열로 입력하여, 일정 패턴으로 욺직임
 - 고전게임 갤러그를 벤치마킹하여 만든 게임
 
-</br>
 [![Video Label](http://img.youtube.com/vi/uKOzifQOWLg/0.jpg)](https://youtu.be/uKOzifQOWLg)
